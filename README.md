@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hello there! 👋
+
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center">
 Hello! I'm Matías, a very dedicated software developer with expertise in Spring, Java, JavaScript, MySQL, React, CSS, and Git. I possess a comprehensive understanding of different frameworks and I really like web development and design. I have a strong command over database management using MySQL and I ensure visually appealing user interfaces with different kind of tools at my disposal. I also have knowledge in Graphic Design and Adobe Sofware Pack tools.
 </p>
 
 Languages: English (Proficient C2) / Spanish (Native)
+      
+<br>
 
 <h3 align="center">Technologies and Tools</h3>
 <p align="center">
@@ -20,6 +24,8 @@ Languages: English (Proficient C2) / Spanish (Native)
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="55"/>
 </p>
+      
+<br>      
 
 
 ### Quick stats about me
@@ -27,6 +33,7 @@ Languages: English (Proficient C2) / Spanish (Native)
 | --- | --- |
 | ![Matías's github stats](https://github-readme-stats.vercel.app/api?username=MattVmx&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Matias's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattVmx&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+ <br>
 
 <h3 align="center">Find me on</h3>
 <p align="center"><a 
